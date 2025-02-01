@@ -61,3 +61,7 @@ If all instances are running:
 
 This project is open-source and available under the MIT License.
 
+# Why is this Useful for DevOps?
+* Automates infrastructure monitoring.
+* Ensures high availability by restarting critical instances.
+* Reduces manual intervention for EC2 instance management.
